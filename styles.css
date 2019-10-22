@@ -22,14 +22,14 @@ header {
     text-align: center;
 }
 .leftColumn{
-    text-align: left;
+    text-align: center;
     width: 50%;
     height: 700px;
     float: left;
     background-color: #69C;
 }
 .rightColumn{
-    text-align: right;
+    text-align: center;
     width: 50%;
     height: 700px;
     float: right;
